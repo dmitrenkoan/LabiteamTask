@@ -1,0 +1,41 @@
+body {
+    padding-top: 70px;
+}
+.starter-template {
+    padding: 40px 15px;
+    text-align: center;
+}
+.buttons {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.title {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.left {
+    text-align: left;
+}
+.right {
+    text-align: right;
+}
+.center {
+    text-align: center;
+}
+.image img,.posts p {
+    max-width: 400px;
+    max-height: 400px;
+}
+.item {
+    background-color: #f1f1f1;
+    border: 1px solid #D8D8D8;
+
+}
+.item:hover{
+    background-color: rgba(73, 204, 204, 0.42);
+}
+.header {
+    background-color: #b7b7b7;
+    border: 1px solid #D8D8D8;
+}
+
